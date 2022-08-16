@@ -1,6 +1,4 @@
-### Hola me alegra que este aquí 👋
-
-### En estos momemtos me encuentro aprendiendo ⚡ Django con mi proyecto Leviatan.
+### Hola me alegra que estes aquí 👋
 
 <!--
 **Asdrubal2002/Asdrubal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
